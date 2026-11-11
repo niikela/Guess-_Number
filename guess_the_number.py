@@ -1,5 +1,6 @@
 import random
 
+print("Welcome to Guess The Number")
 wins = 0
 computer_number = random.randint(1, 100)
 
